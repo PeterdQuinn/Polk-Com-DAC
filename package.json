@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "crypto-js": "^4.1.1"
+  }
+}
